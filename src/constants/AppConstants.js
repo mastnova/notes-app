@@ -1,0 +1,6 @@
+module.exports = {
+  AUTHORIZE: 'AUTHORIZE',
+  SET_NOTES: 'SET_NOTES',
+  ADD_NOTE: 'ADD_NOTE',
+  REMOVE_NOTE: 'REMOVE_NOTE'
+};

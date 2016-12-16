@@ -1,0 +1,55 @@
+#app {
+  width: 800px;
+  margin: 30px auto 0;
+}
+
+h2 {
+  text-align: center;
+  color: #808080;
+}
+
+.nav-wrapper {
+  padding-bottom: 10px;
+  border-bottom: 1px solid gray;
+  margin-bottom: 20px;
+}
+
+.nav.nav-pills {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.nav.nav-pills li {
+  cursor: pointer;
+}
+
+.add-form,
+.auth-form {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.auth-form {
+  margin-top: 200px;
+}
+
+textarea {
+  resize: none;
+}
+
+.btn {
+  outline: none !important;
+}
+
+td {
+  overflow-x: auto;
+}
+
+.td-title {
+  max-width: 200px;
+}
+
+.td-desc {
+  max-width: 300px;
+}
